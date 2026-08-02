@@ -172,3 +172,4 @@ Dublin, Ireland
 
 LinkedIn: linkedin.com/in/ricardo-alves-de-souza
 GitHub: github.com/ricardoasouz
+
