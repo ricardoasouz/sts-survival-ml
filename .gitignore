@@ -1,0 +1,28 @@
+# Data and patient-level artifacts
+data/
+*.dcm
+*.nii
+*.nii.gz
+*.xlsx
+*.csv
+
+# Generated results
+results/
+outputs/
+
+# Notebook / Python
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Secrets / environment
+.env
+*.json
+!package*.json
+
+# OS / IDE
+.DS_Store
+.vscode/
+.idea/

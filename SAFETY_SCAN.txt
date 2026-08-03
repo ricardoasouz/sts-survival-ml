@@ -1,0 +1,49 @@
+Portfolio safety scan (source text only)
+
+01_rtstruct_dicom_mapping.ipynb
+  old_bucket: clear
+  colab_path: clear
+  drive_path: clear
+  exact_patient_id: clear
+  email: clear
+  api_key_like: clear
+
+02_radiomics_extraction.ipynb
+  old_bucket: clear
+  colab_path: clear
+  drive_path: clear
+  exact_patient_id: clear
+  email: clear
+  api_key_like: clear
+
+03_feature_consolidation.ipynb
+  old_bucket: clear
+  colab_path: clear
+  drive_path: clear
+  exact_patient_id: clear
+  email: clear
+  api_key_like: clear
+
+04_clinical_survival_analysis.ipynb
+  old_bucket: clear
+  colab_path: clear
+  drive_path: clear
+  exact_patient_id: clear
+  email: clear
+  api_key_like: clear
+
+05_data_preparation.ipynb
+  old_bucket: clear
+  colab_path: clear
+  drive_path: clear
+  exact_patient_id: clear
+  email: clear
+  api_key_like: clear
+
+06_coxph_vs_deepsurv.ipynb
+  old_bucket: clear
+  colab_path: clear
+  drive_path: clear
+  exact_patient_id: clear
+  email: clear
+  api_key_like: clear

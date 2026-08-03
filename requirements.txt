@@ -1,0 +1,30 @@
+# Core data / scientific stack
+numpy
+pandas
+scikit-learn
+scipy
+matplotlib
+seaborn
+tqdm
+openpyxl
+pyarrow
+
+# Survival analysis / ML
+lifelines
+torch
+torchtuples
+pycox
+scikit-survival
+
+# Medical imaging / radiomics
+pydicom
+nibabel
+SimpleITK
+pyradiomics
+dcmrtstruct2nii
+opencv-python
+psutil
+
+# Google Cloud access used by the original pipeline
+google-cloud-storage
+gcsfs
