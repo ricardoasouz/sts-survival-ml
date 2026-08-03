@@ -56,7 +56,7 @@ Train / Validation / Test Split
 
 Technology Stack
 Python
-TensorFlow
+PyTorch
 Scikit-learn
 Pandas
 NumPy
@@ -119,7 +119,7 @@ Preprocessing included feature filtering, missing-value handling, correlation re
 
 DeepSurv
 
-DeepSurv was implemented as a neural-network-based survival model using TensorFlow and the pycox ecosystem.
+DeepSurv was implemented as a neural-network-based survival model using PyTorch and the pycox ecosystem.
 
 The modelling workflow included feature standardisation, training/validation separation, regularisation and early stopping.
 
