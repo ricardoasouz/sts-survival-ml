@@ -56,7 +56,7 @@ Train / Validation / Test Split
 
 Technology Stack
 Python
-PyTorch
+TensorFlow
 Scikit-learn
 Pandas
 NumPy
@@ -87,7 +87,7 @@ Extract quantitative imaging features using PyRadiomics.
 Consolidate features across imaging series at patient level.
 Integrate radiomic and clinical information.
 Perform data cleaning, feature engineering and leakage prevention.
-Create patient-level training, validation and test splits.
+Create patient-level training, validation, and test splits.
 Train CoxPH and DeepSurv survival models.
 Evaluate model discrimination and survival-risk stratification.
 Engineering Challenges & Troubleshooting
@@ -119,7 +119,7 @@ Preprocessing included feature filtering, missing-value handling, correlation re
 
 DeepSurv
 
-DeepSurv was implemented as a neural-network-based survival model using PyTorch and the pycox ecosystem.
+DeepSurv was implemented as a neural-network-based survival model using TensorFlow and the pycox ecosystem.
 
 The modelling workflow included feature standardisation, training/validation separation, regularisation and early stopping.
 
